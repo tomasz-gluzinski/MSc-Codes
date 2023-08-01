@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+212510,386180,1100,270,65,1,Viersen_Fault
+216000,391000,2260,90,0,1,Base_TertiaryE
+215160,386980,1820,90,0,1,Top_DevonianE
+215160,386980,1420,90,0,1,Base_DevonianE
